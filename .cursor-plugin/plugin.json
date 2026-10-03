@@ -1,0 +1,12 @@
+{
+  "name": "caterbid-reviewer-pilot",
+  "version": "0.1.0",
+  "description": "Restricted CaterBid customer connector pilot: isolated reviewer samples, owned request reads and event brief preparation. Real request creation is disabled.",
+  "author": {
+    "name": "CaterBid",
+    "email": "concierge@cater-bid.com"
+  },
+  "homepage": "https://connect.cater-bid.com/concierge/docs",
+  "keywords": ["catering", "reviewer-pilot", "mcp"],
+  "mcpServers": "./mcp.json"
+}
