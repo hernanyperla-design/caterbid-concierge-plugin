@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "caterbid-reviewer": {
+      "url": "https://connect.cater-bid.com/mcp",
+      "auth": {
+        "CLIENT_ID": "caterbid-cursor-reviewer-20261002",
+        "scopes": ["requests:read", "requests:write"]
+      }
+    }
+  }
+}
